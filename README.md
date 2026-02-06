@@ -360,6 +360,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Support
 
-For support, email your-email@example.com or create an issue in the repository.
-
 **Built with ❤️ using Flutter**
