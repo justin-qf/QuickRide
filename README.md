@@ -1,4 +1,4 @@
-# 🚖 RideShare - Rapido-like Ride Hailing App
+🚖 QuickRide – Rapido-like Ride Hailing App
 
 A complete Flutter ride-hailing application with Rider and Driver flows, real-time GPS tracking, Firebase integration, and clean architecture.
 
