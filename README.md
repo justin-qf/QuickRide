@@ -1,4 +1,4 @@
-# 🚖 RideShare - Rapido-like Ride Hailing App
+🚖 QuickRide - Rapido-like Ride Hailing App
 
 A complete Flutter ride-hailing application with Rider and Driver flows, real-time GPS tracking, Firebase integration, and clean architecture.
 
@@ -290,36 +290,6 @@ flutter run
 - Error handling
 - Responsive layout
 
-## 🔧 Configuration
-
-### Fare Calculation
-
-Edit in `lib/features/driver/presentation/pages/driver_ride_screen.dart`:
-
-```dart
-// Current: ₹10 per km + ₹20 base fare
-final fare = (distance * 10) + 20;
-```
-
-### Location Update Frequency
-
-Edit in `lib/core/services/location_service.dart`:
-
-```dart
-const locationSettings = LocationSettings(
-  accuracy: LocationAccuracy.high,
-  distanceFilter: 10, // Update every 10 meters
-);
-```
-
-### Nearby Driver Radius
-
-Edit in `lib/core/providers/ride_provider.dart`:
-
-```dart
-return rideService.streamNearbyRideRequests(location, 5.0); // 5km radius
-```
-
 ## 🐛 Troubleshooting
 
 ### Firebase Initialization Error
@@ -391,7 +361,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Support
 
 For support, email your-email@example.com or create an issue in the repository.
-
----
 
 **Built with ❤️ using Flutter**
