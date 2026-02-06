@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "702479012421",
+    "project_id": "quickride-bc4de",
+    "storage_bucket": "quickride-bc4de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702479012421:android:2ce0ead047fd80d0ad492c",
+        "android_client_info": {
+          "package_name": "com.app.quickride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702479012421-pv7lqedlg776hb5b0vhosr3118l96q18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.quickride",
+            "certificate_hash": "3f6852c55f855a5da9aaa625a7cf6a77bf06c38a"
+          }
+        },
+        {
+          "client_id": "702479012421-rvdhvrji3qiicfeikg07683cj42cmj5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfM_U_g5RlMa1iN3FgpfVIPosWrmEiaj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702479012421-rvdhvrji3qiicfeikg07683cj42cmj5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
